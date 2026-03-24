@@ -1,7 +1,6 @@
-# Text Summary
+# LLM Text Summary
 
-This project contains tools and evaluation scripts for text summarization.
-
+perform text summerisation using local LLM orchastration and openai api calls, including LLM as a judge evaluation and agentic summary improvement loop
 ## Report
 
 ![Report](report.png)
